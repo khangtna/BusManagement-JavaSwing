@@ -1,3 +1,5 @@
 # BusManagement-JavaSwing
 
-SQL, Java Swing
+SQL, Java, Java Swing
+
+NetBeans IDE 12.6, SQL Server 2019
